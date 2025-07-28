@@ -1,0 +1,7 @@
+FoodLand
+Food Land is a scalable, full-stack web application built using React.js and Bootstrap for the frontend, Java (Spring Boot) for the backend, and MySQL as the relational database. It allows users to explore, order, and pay for food items from various restaurants. Designed for seamless user experience and real-time operations, the platform implements JWT-based authentication and uses BCrypt for secure password handling.
+
+The system offers role-based access for Customers, Restaurant Owners, and Admins, ensuring controlled functionalities across user types. Frontend interactions are handled with React components and styled using Bootstrap, while backend APIs are developed using Spring Boot RESTful services and tested using Postman.
+
+Food Land supports real-time menu updates, order tracking, and secure online payments via Razorpay Payment Gateway. All development is managed using Visual Studio Code for frontend, Eclipse IDE for backend, and MySQL Workbench for database management.
+
